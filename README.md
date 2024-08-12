@@ -8,4 +8,10 @@ Aqui serão postados projetos envolvendo HTML
 #### PROJETOS REALIZADOS:
 
 - Saite.html (TESTE)
-
+- Estrutura básica (página web do Alex)
+- Parágrafos e Títulos
+- Links (Exemplos de links)
+- Imagens
+- Página Simples (De Volta Para o Futuro: filme)
+- Semântica
+- Site Clone Simples (BEAT IT - Michael Jackson - LETRAS.COM)
