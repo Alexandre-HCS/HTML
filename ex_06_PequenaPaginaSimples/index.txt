@@ -14,13 +14,13 @@
 		<h2>País de origem: EUA</h2>
 
 		<h3>Sinopse:</h3>
-		<p>Um jovem (Michael J. Fox) aciona acidentalmenteuma máquina</p>
+		<p>Um jovem (Michael J. Fox) aciona acidentalmente uma máquina</p>
 		<p>do tempo construída por um cientista (Christopher Lloyd) em</p>
 		<p>um Delorean, retornando aos anos 50. Lá conhece sua mãe</p>
 		<p>(Lea Thompson), antes ainda do casamento com seu pai, que</p>
 		<p>fica apaixonada por ele. Tal paixão põe em risco sua própria</p>
-		<p> existência, pois alteraria todo o futuro, forçando-o a servir</p>
-		<p> de cupido entre seus pais.</p>
+		<p>existência, pois alteraria todo o futuro, forçando-o a servir</p>
+		<p>de cupido entre seus pais.</p>
 
 
 	</body>
