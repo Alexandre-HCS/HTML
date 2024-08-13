@@ -15,3 +15,8 @@ Aqui serão postados projetos envolvendo HTML
 - Página Simples (De Volta Para o Futuro: filme)
 - Semântica
 - Site Clone Simples (BEAT IT - Michael Jackson - LETRAS.COM)
+- Tabelas
+- Lista ordenada
+- Lista Não Ordenada
+- Bolo de Brigadeiro
+- Inserindo Imagens e Links
