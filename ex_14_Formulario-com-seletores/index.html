@@ -8,11 +8,40 @@
 <body>
     <form action="">
         <p>Nome:</p><input type="text" name="Nome">
-    </form>
 
     <br>
     <br>
     <input type="checkbox" name="termosdeconsentimento" id="">Eu aceito os <a href="">termos</a>.
 
+    <br>
+    <br>
+    <input type="text" name="nome" value="Alex">
+
+    <br>
+    <!-- Placeholder, texto auto-substituível -->
+    <input type="text" name="mail" placeholder="DIGITE SEU EMAIL"> 
+
+    <br>
+    <br>
+    <!-- Readonly: tranca -->
+    <input type="text" name="trancado" value="Não Alterável" readonly>
+
+    <br>
+    <!-- Disable: desabilita -->
+    <input type="text" name="desabilitado" value="Campo Desabilitado" disabled>
+
+    <br>
+    <!-- Maxlenght: define quantidade máxima de carácteres -->
+    <input type="text" name="ano" placeholder="limitado" maxlength="6">
+
+    <br>
+    <input type="text" name="trancado" value="Não Alterável" readonly>
+
+    <br>
+    <br>
+    <input type="text" name="senha" required>
+    <br>
+    <input type="submit" value="enviar">
+</form>
 </body>
 </html>
